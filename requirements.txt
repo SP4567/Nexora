@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+google-generativeai
+psycopg2-binary
+sqlalchemy
+pandas
+scikit-learn
+prophet
+fpdf
+python-dotenv
